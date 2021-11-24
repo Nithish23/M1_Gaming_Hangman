@@ -10,7 +10,9 @@ hanged (and loses).
 ## REQUIREMENTS : 
 
 ## Identifying requirements: 
-## 4 W and 1H: Mobile flash games(Android,Ios), Pc flash games, easy access to
+## 4 W and 1H: 
+
+Mobile flash games(Android,Ios), Pc flash games, easy access to
 applications, security. SWOT analysis: Strength is it can be accessible
 to mobile and pc with basic minimum requirments, with or without
 internet
