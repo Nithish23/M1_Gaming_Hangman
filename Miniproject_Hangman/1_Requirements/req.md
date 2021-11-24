@@ -1,18 +1,29 @@
-TITLE : HANGMAN 
-DESCRIPTION : Hangman is a simple word guessing game.
+## TITLE : HANGMAN 
+
+## DESCRIPTION : 
+
+Hangman is a simple word guessing game.
 Players try to figure out an unknown word by guessing letters. If too
 many letters which do not appear in the word are guessed, the player is
 hanged (and loses). 
-REQUIREMENTS : Identifying requirements: 4 W and 1H: Mobile flash games(Android,Ios), Pc flash games, easy access to
+
+## REQUIREMENTS : 
+
+## Identifying requirements: 
+## 4 W and 1H: Mobile flash games(Android,Ios), Pc flash games, easy access to
 applications, security. SWOT analysis: Strength is it can be accessible
 to mobile and pc with basic minimum requirments, with or without
 internet
 
-LOW LEVEL REQUIRMENTS : =\>Memory: 1 MB. =\>Graphics Card: ATI FireGL
+## LOW LEVEL REQUIRMENTS : 
+
+=\>Memory: 1 MB. =\>Graphics Card: ATI FireGL
 T2-128. =\>CPU: Intel Atom Z510. =\>File Size: 200 MB. =\>OS: Windows 7
 or Greater.
 
-Functional Requirements : 1. Starting the Application Allow the user to
+## Functional Requirements : 
+
+1. Starting the Application Allow the user to
 enter on the command line the IP address of a remote computer that is
 running a Hangman Word Server. If the user doesn't provide an IP
 address, use as a default the address "localhost." At the start of each
@@ -45,8 +56,10 @@ player indicates they do not want to play again, the application is
 terminated. Note: there is no way for a player to request termination of
 play during the middle of a game.
 
-Non-Functional Requirements Operating Constraints 1. The program
-requires the JRE v1.4 with Swing from Sun Microsystems. Platform
+  
+## Non Functional Requirements :
+  
+Operating Constraints 1. The program requires the JRE v1.4 with Swing from Sun Microsystems. Platform
 constraints 1. The program requires a 486 or higher processor with 16
 Megabytes of RAM and 5 Megabytes of available hard drive space.
 Modifiability 1. If it is desired to change the number of turns in a
