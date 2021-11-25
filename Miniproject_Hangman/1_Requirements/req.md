@@ -88,7 +88,7 @@ play during the middle of a game.
   
 ## Non Functional Requirements :
   
-Operating Constraints 1. The program requires the JRE v1.4 with Swing from Sun Microsystems. Platform
+1. The program requires the JRE v1.4 with Swing from Sun Microsystems. Platform
 constraints 1. The program requires a 486 or higher processor with 16
 Megabytes of RAM and 5 Megabytes of available hard drive space.
 Modifiability 1. If it is desired to change the number of turns in a
