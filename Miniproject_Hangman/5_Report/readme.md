@@ -27,7 +27,7 @@ internet
        (3) The Players mastery in pronouncing the words
 
 
-## Weaknesses
+## Weakness
 
         The alternative versions do seem to involve some peril, but there is no reason why the game should.
         
