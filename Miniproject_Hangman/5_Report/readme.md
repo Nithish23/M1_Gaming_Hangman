@@ -10,10 +10,38 @@ hanged (and loses).
 ## REQUIREMENTS : 
 
 ## Identifying requirements: 
-## 4 W and 1H: Mobile flash games(Android,Ios), Pc flash games, easy access to
+
+## 4 W and 1H: 
+ 
+Mobile flash games(Android,Ios), Pc flash games, easy access to
 applications, security. SWOT analysis: Strength is it can be accessible
 to mobile and pc with basic minimum requirments, with or without
 internet
+
+## SWOT ANALYSIS :
+
+## Strengths
+      
+       (1) The Players mastery in understanding the meaning of words 
+       (2) The Players mastery in spelling words
+       (3) The Players mastery in pronouncing the words
+
+
+## Weaknesses
+
+        The alternative versions do seem to involve some peril, but there is no reason why the game should.
+        
+        
+## Opportunities
+
+        (1) Hangman boasts a number of educational benefits.
+        (2) Can be implemented in Mind games.
+        
+        
+## Threats
+       
+       Other Similar Apllications.
+       
 
 ## LOW LEVEL REQUIRMENTS : 
 
@@ -59,7 +87,7 @@ play during the middle of a game.
   
 ## Non Functional Requirements :
   
-Operating Constraints 1. The program requires the JRE v1.4 with Swing from Sun Microsystems. Platform
+1. The program requires the JRE v1.4 with Swing from Sun Microsystems. Platform
 constraints 1. The program requires a 486 or higher processor with 16
 Megabytes of RAM and 5 Megabytes of available hard drive space.
 Modifiability 1. If it is desired to change the number of turns in a
